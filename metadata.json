@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Profit Pilot",
+  "description": "An interactive hub and AI-powered consultant designed to help users identify, plan, and execute money-making strategies using artificial intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
